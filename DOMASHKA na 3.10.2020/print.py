@@ -1,0 +1,2 @@
+print("Silence is golden")
+
